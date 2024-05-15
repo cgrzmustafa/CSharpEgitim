@@ -35,6 +35,9 @@ namespace Konu06Donguler
 
             Console.Read();
 
+
+
+
         }
     }
 }
